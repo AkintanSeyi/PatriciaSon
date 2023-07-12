@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PatriciaSon/static/css/main.19f283fe.css",
+    "main.js": "/PatriciaSon/static/js/main.b95aaaa5.js",
+    "static/media/lightining.png": "/PatriciaSon/static/media/lightining.3503a307e703e460c6ce.png",
+    "static/media/cars.png": "/PatriciaSon/static/media/cars.b730781d59debe026944.png",
+    "static/media/walpaper.png": "/PatriciaSon/static/media/walpaper.7a52db7de48a083e976b.png",
+    "static/media/housing.png": "/PatriciaSon/static/media/housing.15f47631f751900de70e.png",
+    "static/media/food.png": "/PatriciaSon/static/media/food.d65a00b100be62d91820.png",
+    "static/media/funiture.png": "/PatriciaSon/static/media/funiture.b0869852940a42f25e62.png",
+    "static/media/rain.png": "/PatriciaSon/static/media/rain.402ac1f303abf9762d5a.png",
+    "static/media/nft.png": "/PatriciaSon/static/media/nft.4e975fe778303cfc9109.png",
+    "static/media/cream.png": "/PatriciaSon/static/media/cream.f8a1cd2bdb5c9105096d.png",
+    "static/media/javascript.png": "/PatriciaSon/static/media/javascript.d41f2664bf118853b575.png",
+    "static/media/Html.png": "/PatriciaSon/static/media/Html.e697a6c059dffeacb5c7.png",
+    "static/media/css.png": "/PatriciaSon/static/media/css.915c5430077f67dee8dd.png",
+    "static/media/fibre.png": "/PatriciaSon/static/media/fibre.77c8b6e0def2a8a3c50b.png",
+    "static/media/323975454___n.jpg": "/PatriciaSon/static/media/323975454_2191134737736628_5751669062532143065_n.25cd293155c8b46856a2.jpg",
+    "index.html": "/PatriciaSon/index.html",
+    "main.19f283fe.css.map": "/PatriciaSon/static/css/main.19f283fe.css.map",
+    "main.b95aaaa5.js.map": "/PatriciaSon/static/js/main.b95aaaa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f283fe.css",
+    "static/js/main.b95aaaa5.js"
+  ]
+}

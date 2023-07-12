@@ -1,8 +1,8 @@
 {
   "name": "my-app",
+  "homepage": "https://akintanseyi.github.io/PatriciaSon/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akintanseyi.github.io/PatriciaSon/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",

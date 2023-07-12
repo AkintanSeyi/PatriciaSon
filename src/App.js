@@ -1,25 +1,51 @@
-import logo from './logo.svg';
+import React , {useEffect , useState} from 'react';
+import {Route , Routes} from  "react-router-dom";
 import './App.css';
+import {Box } from "@mui/material";
+import Homepage from './components/HomePage/Homepage';
+import About from './components/Profile/Components/About/About';
+import Project from './components/Profile/Components/Project/Project';
+import Certificate from './components/Profile/Components/Certificate/Certificate';
+import Experience from './components/Profile/Components/Experience/Experience';
+import Skills from './components/Profile/Components/Skills/Skills';
 
-function App() {
+
+const App = () => {
+
+
+
+
+ //  const [sectionChange, setSectionChange] = useState("see");
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Box  width = "400px"  sx = {{width : {xl : "1488px"}}}
+    m = "auto">
+
+        <Routes>
+            <Route path = "/" element  = {<Homepage />}   />
+            <Route path = "/profile" element  = {<About/>}      />
+            <Route path = "/project" element  = {<Project     />}   />
+            <Route path = "/certificate" element  = {<Certificate     />}   />
+            <Route path = "/skills" element  = {<Skills     />}   />
+            <Route path = "/experience" element  = {<Experience      />}   />
+
+
+
+     </Routes>
+
+
+
+
+
+
+
+
+
+
+    </Box>
+  )
 }
 
-export default App;
+export default App
